@@ -183,5 +183,18 @@
 ||hao.360.com##div#doc-bd
 ||hao.360.com##div#doc-top-ft
 ||hao.360.com##div#doc-main.container
+hao.360.com##div#doc-main.container
 ||so.com##div#side
 ||so.com##div#side_wrap
+||mediav.com^$third-party
+||p.zol.com.cn/download/detail.js
+zol.com.cn###downloader_main1
+||share.baidu.com^$third-party
+~airbnb.com,~ge.tt##.share-box
+##.ad-div
+zol.com.cn##.down-gaosub
+zol.com.cn##.xiazaic-topb-box
+zol.com.cn###downloadTop
+||scorecardresearch.com^$third-party
+hao.360.com###top-nav
+hao.360.cn,hao.360.com###plane > .plane-hd
