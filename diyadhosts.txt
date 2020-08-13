@@ -198,3 +198,6 @@ zol.com.cn###downloadTop
 ||scorecardresearch.com^$third-party
 hao.360.com###top-nav
 hao.360.cn,hao.360.com###plane > .plane-hd
+hao.360.com##ul.plane-bd
+hao.360.com##div#plane-footer.plane-ft
+hao.360.com##div#doc-top-ft
