@@ -178,3 +178,10 @@
 ||new.api.ad.xiaomi.com^
 ||api.ad.xiaomi.com^^
 ||o2o.api.xiaomi.com^
+#屏蔽网站元素 测试是否有效
+||baidu.com###content_right > table
+||hao.360.com##div#doc-bd
+||hao.360.com##div#doc-top-ft
+||hao.360.com##div#doc-main.container
+||so.com##div#side
+||so.com##div#side_wrap
