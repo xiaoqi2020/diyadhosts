@@ -134,3 +134,8 @@
 ||jsw.com.cn^
 ||ett.cc^
 ||123.duba.net^
+#广告联盟
+||umeng.com^
+||wangmeng.baidu.com^
+||un.koolearn.com^
+||union.500.com^
