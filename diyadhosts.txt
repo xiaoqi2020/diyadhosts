@@ -86,7 +86,7 @@
 ||018dyw.com^
 ||9527yy.com^
 ||v4yy.com^
-#屏蔽音乐
+#屏蔽音乐网站
 ||kuwo.cn^
 ||kuwo.com^
 ||kugou.com^
@@ -126,3 +126,11 @@
 ||zhilingshidai.com^
 ||pizzaseo.com^
 ||e.baidu.com^
+||265.com^
+||daohang.qq.com^
+||123.sogou.com^
+||duba.com^
+||un.pc120.com^
+||jsw.com.cn^
+||ett.cc^
+||123.duba.net^
