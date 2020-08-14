@@ -179,25 +179,25 @@
 ||api.ad.xiaomi.com^^
 ||o2o.api.xiaomi.com^
 #屏蔽网站元素 测试是否有效
-||baidu.com###content_right > table
-||hao.360.com##div#doc-bd
-||hao.360.com##div#doc-top-ft
-||hao.360.com##div#doc-main.container
-hao.360.com##div#doc-main.container
-||so.com##div#side
-||so.com##div#side_wrap
-||mediav.com^$third-party
-||p.zol.com.cn/download/detail.js
-zol.com.cn###downloader_main1
+||https://www.baidu.com###content_right > table
+||https://hao.360.com##div#doc-bd
+||https://hao.360.com##div#doc-top-ft
+||https://hao.360.com##div#doc-main.container
+https://hao.360.com##div#doc-main.container
+||https://so.com##div#side
+||https://so.com##div#side_wrap
+||https://mediav.com^$third-party
+||https://p.zol.com.cn/download/detail.js
+https://zol.com.cn###downloader_main1
 ||share.baidu.com^$third-party
 ~airbnb.com,~ge.tt##.share-box
 ##.ad-div
-zol.com.cn##.down-gaosub
-zol.com.cn##.xiazaic-topb-box
-zol.com.cn###downloadTop
+https://zol.com.cn##.down-gaosub
+https://zol.com.cn##.xiazaic-topb-box
+https://zol.com.cn###downloadTop
 ||scorecardresearch.com^$third-party
-hao.360.com###top-nav
-hao.360.cn,hao.360.com###plane > .plane-hd
-hao.360.com##ul.plane-bd
-hao.360.com##div#plane-footer.plane-ft
-hao.360.com##div#doc-top-ft
+https://hao.360.com###top-nav
+https://hao.360.cn,hao.360.com###plane > .plane-hd
+https://hao.360.com##ul.plane-bd
+https://hao.360.com##div#plane-footer.plane-ft
+https://hao.360.com##div#doc-top-ft
