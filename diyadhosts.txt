@@ -186,8 +186,8 @@
 https://hao.360.com##div#doc-main.container
 ||https://so.com##div#side
 ||https://so.com##div#side_wrap
-||https://mediav.com^$third-party
-||https://p.zol.com.cn/download/detail.js
+||https://*.mediav.com^$third-party
+||https://p.zol.com.cn/download/detail.js^
 https://zol.com.cn###downloader_main1
 ||share.baidu.com^$third-party
 ~airbnb.com,~ge.tt##.share-box
@@ -201,3 +201,5 @@ https://hao.360.cn,hao.360.com###plane > .plane-hd
 https://hao.360.com##ul.plane-bd
 https://hao.360.com##div#plane-footer.plane-ft
 https://hao.360.com##div#doc-top-ft
+||api.github.com/_private/browser/stats$important
+||collector.githubapp.com^
