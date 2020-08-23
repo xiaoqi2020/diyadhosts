@@ -72,6 +72,7 @@ https://news.qhstatic.com/
 ||un.koolearn.com^
 ||union.500.com^
 #小米广告
+||tat.pandora.xiaomi.com^
 ||stat.pandora.xiaomi.com^
 ||upgrade.mishop.pandora.xiaomi.com^
 ||logonext.tv.kuyun.com^
