@@ -78,8 +78,6 @@
 ||9527yy.com^
 ||v4yy.com^
 #屏蔽音乐网站
-||kuwo.cn^
-||kuwo.com^
 ||kugou.com^
 ||kugou.cn^
 ||music.baidu.com^
