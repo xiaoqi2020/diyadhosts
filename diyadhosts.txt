@@ -77,14 +77,6 @@
 ||018dyw.com^
 ||9527yy.com^
 ||v4yy.com^
-#屏蔽音乐网站
-||kugou.com^
-||kugou.cn^
-||music.baidu.com^
-||music.taihe.com^
-||music.163.com^
-||music.qq.com^
-||y.qq.com^
 #屏蔽金山毒霸网站
 ||wps.com^
 ||wps.cn^
