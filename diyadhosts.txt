@@ -116,7 +116,14 @@
 ||ett.cc^
 ||123.duba.net^
 @265.com@baidu.com@
-https://news.qhstatic.com/
+||news.qhstatic.com^
+||kuaizip.com^
+||glzip.cn^
+||shzhanmeng.com^
+||7654.com^
+||360kuai.com^
+||ssp.360.cn^
+||hoteastday.com^
 #广告联盟
 ||umeng.com^
 ||wangmeng.baidu.com^
