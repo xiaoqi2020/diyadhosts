@@ -65,7 +65,14 @@
 ||ett.cc^
 ||123.duba.net^
 @265.com@baidu.com@
-https://news.qhstatic.com/
+||news.qhstatic.com^
+||kuaizip.com^
+||glzip.cn^
+||shzhanmeng.com^
+||7654.com^
+||360kuai.com^
+||ssp.360.cn^
+
 #广告联盟
 ||umeng.com^
 ||wangmeng.baidu.com^
@@ -229,3 +236,5 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 ||google-analytics.com^ 
 ||api.github.com/_private/browser/stats$important
 ||collector.githubapp.com^
+#屏蔽弹窗广告-测试
+||*.hoteastday.com^
