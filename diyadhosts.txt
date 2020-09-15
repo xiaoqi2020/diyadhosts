@@ -246,3 +246,5 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 ||google-analytics.com^ 
 ||api.github.com/_private/browser/stats$important
 ||collector.githubapp.com^
+#特殊网站放行
+@@||baidupcs.com
