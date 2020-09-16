@@ -28,6 +28,7 @@
 ||2xxy.com^
 ||33456.com^
 #屏蔽各大视频网站
+||bilibili.com^
 ||iqiyi.com^
 ||v.qq.com^
 ||56.com^
@@ -115,7 +116,6 @@
 ||jsw.com.cn^
 ||ett.cc^
 ||123.duba.net^
-@265.com@baidu.com@
 ||news.qhstatic.com^
 ||kuaizip.com^
 ||glzip.cn^
