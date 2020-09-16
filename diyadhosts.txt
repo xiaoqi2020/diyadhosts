@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! title: 小麒-游戏，视频，音乐网站屏蔽规则
+! title: 小麒-公司用规则    游戏，视频，音乐网站屏蔽规则
 ! Version: 2020-8-13 22:01:38
 #屏蔽游戏网站
 ||wan.360.cn^
@@ -216,8 +216,8 @@ so.com###side
 ||www.youtube.com/api/stats'
 ||www.youtube.com/pagead'
 ||www.youtube.com/ptracking'
-@@||pv.sohu.com^$important'
-@@||mgtv.com^important'
+||pv.sohu.com^$important'
+||mgtv.com^important'
 youku.com#%#//scriptlet("adjust-setTimeout", "r--", "", "0.02")
 ||cnzz.com^$third-party
 ||mmstat.com^$third-party
@@ -248,4 +248,3 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 ||collector.githubapp.com^
 #特殊网站放行
 @@||baidupcs.com
-@@||
