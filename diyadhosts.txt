@@ -170,36 +170,6 @@
 ||api.ad.xiaomi.com^^
 ||o2o.api.xiaomi.com^
 #屏蔽网站元素 测试是否有效
-||https://www.baidu.com###content_right > table
-||https://hao.360.com##div#doc-bd
-||https://hao.360.com##div#doc-top-ft
-||https://hao.360.com##div#doc-main.container
-https://hao.360.com##div#doc-main.container
-||https://so.com##div#side
-||https://so.com##div#side_wrap
-||https://*.mediav.com^$third-party
-||mediav.com^$third-party 
-||https://p.zol.com.cn/download/detail.js^
-https://zol.com.cn###downloader_main1
-||share.baidu.com^$third-party
-~airbnb.com,~ge.tt##.share-box
-##.ad-div
-https://zol.com.cn##.down-gaosub
-https://zol.com.cn##.xiazaic-topb-box
-https://zol.com.cn###downloadTop
-||scorecardresearch.com^$third-party
-https://hao.360.com###top-nav
-https://hao.360.cn,hao.360.com###plane > .plane-hd
-https://hao.360.com##ul.plane-bd
-https://hao.360.com##div#plane-footer.plane-ft
-https://hao.360.com##div#doc-top-ft
-||iqiyi.com/track
-@@||translate.googleapis.com/translate_ 
-://ads.$domain=~ads.ac.uk|~ads.adstream.com.ro|~ads.allegro.pl|~ads.am|~ads.atmosphere.copernicus.eu|~ads.bigbom.com|~ads.brave.com|~ads.buscaempresas.co|~ads.colombiaonline.com|~ads.comeon.com|~ads.cvut.cz|~ads.dollartree.com|~ads.elcarado.com|~ads.google.com|~ads.harvard.edu|~ads.lapalingo.com|~ads.lordlucky.com|~ads.microsoft.com|~ads.mobilebet.com|~ads.msstate.edu|~ads.mst.dk|~ads.nc|~ads.nimses.com|~ads.odesbuild.com|~ads.pinterest.com|~ads.quasaraffiliates.com|~ads.red|~ads.route.cc|~ads.safi-gmbh.ch|~ads.sk|~ads.snapchat.com|~ads.socialtheater.com|~ads.taboola.com|~ads.tiktok.com|~ads.toplayaffiliates.com|~ads.viksaffiliates.com|~ads.watson.ch|~ads.xtribeapp.com|~ads.yahoosmallbusiness.com|~badassembly.com|~caravansforsale.co.uk|~fusac.fr|~memo2.nl|~reempresa.org|~satmetrix.com|~seriouswheels.com
-||hm.baidu.com^$third-party
-/cpro/ui/*
-so.com###res_news_flow
-so.com###side
 @@||jd.com^important'
 @@||flyme.cn^$important'
 @@||meizu.com^$important'
@@ -246,7 +216,7 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 ||google-analytics.com^ 
 ||api.github.com/_private/browser/stats$important
 ||collector.githubapp.com^
+||jin.baidu.com^
 #特殊网站放行
 @@||baidupcs.com
 @@||pan.baidu.com
-@@||
