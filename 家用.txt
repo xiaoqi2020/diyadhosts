@@ -231,6 +231,8 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 ||btrace.video.qq.com/kvcollect^
 @@||qq.com/proxyhttp
 @@||pingjs.qq.com^$~third-party
+@@||map.baidu.com
+@@||microsoft.com
 ~xpressengine.com##.btn_share
 #防跟踪保护过滤器
 ||google-analytics.com^ 
@@ -238,3 +240,13 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 ||collector.githubapp.com^
 #屏蔽弹窗广告-测试
 ||*.hoteastday.com^
+#屏蔽成人网站
+||xxxmoviesfuck.pro^
+||wildxxxsex.com^
+||xxxsex.pro^^
+||6xxxvideos.com^
+||sexhubmovs.com^
+||xxxmoviesfuck.pro^
+||sexmovie.pro^
+||18pornpic.com^
+||xxxcomicporn.com^
