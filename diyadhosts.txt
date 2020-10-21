@@ -218,3 +218,4 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 @@||baidupcs.com
 @@||pan.baidu.com
 @@||map.baidu.com
+220.167.100.72 scsxhg2019.gnway.org
