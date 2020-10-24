@@ -38,8 +38,6 @@
 ||suianchi.cn^
 ||360kan.com^
 ||v.360.cn^
-||douyin.com^
-||douyin.cn^
 ||88ys.com^
 ||chiba.tv^
 ||58mov.com^
