@@ -207,6 +207,7 @@ v.qq.com#%#//scriptlet('json-prune', 'ad')
 @@||qq.com/proxyhttp
 @@||pingjs.qq.com^$~third-party
 ~xpressengine.com##.btn_share
+baidu.com###content_right
 #防跟踪保护过滤器
 ||google-analytics.com^ 
 ||api.github.com/_private/browser/stats$important
