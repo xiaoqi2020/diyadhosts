@@ -218,3 +218,4 @@ baidu.com###content_right
 @@||pan.baidu.com
 @@||map.baidu.com
 220.167.100.72 scsxhg2019.gnway.org
+0.0.0.0 ocsp.apple.com
