@@ -27,6 +27,7 @@
 ||2xxy.com^
 ||33456.com^
 ||netease.com^
+||evepc.163.com^
 #屏蔽金山毒霸网站
 ||wps.com^
 ||wps.cn^
