@@ -26,6 +26,7 @@
 ||42ya.com^
 ||2xxy.com^
 ||33456.com^
+||netease.com^
 #屏蔽金山毒霸网站
 ||wps.com^
 ||wps.cn^
