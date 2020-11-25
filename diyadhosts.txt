@@ -219,3 +219,19 @@ baidu.com###content_right
 @@||map.baidu.com
 220.167.100.72 scsxhg2019.gnway.org
 0.0.0.0 ocsp.apple.com
+@@||scsxhg2019.gnway.org
+@@||220.167.100.72
+@@||pan.baidu.com
+@@||map.baidu.com
+@@@@||https://xunjiecad.com
+@@||kantu.xunjiecad.com
+@@||1688.com
+@@||s.1688.com
+@@||https://dldir1.qq.com
+@@||cracksurl.com
+@@||taxrefund.com.cn
+@@||qiye.ccpiteco.net
+@@||qiye.163.com
+@@||captcha.net
+@@||126.com
+@@||dldir1.qq.com
