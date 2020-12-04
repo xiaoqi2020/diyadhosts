@@ -221,3 +221,32 @@ baidu.com###content_right
 ||sexmovie.pro^
 ||18pornpic.com^
 ||xxxcomicporn.com^
+OC渲染器
+192.168.1.2 windows10.microdone.cn
+127.0.0.1 live.refractivesoftware.com # # 
+127.0.0.1 live1.refractivesoftware.com # # 
+127.0.0.1 live2.refractivesoftware.com # # 
+127.0.0.1 live3.refractivesoftware.com # # 
+127.0.0.1 live4.refractivesoftware.com # # 
+127.0.0.1 live5.refractivesoftware.com # # 
+127.0.0.1 live6.refractivesoftware.com # # 
+127.0.0.1 live.octanerender.com # # 
+127.0.0.1 live.octanerender.com/live/v1 # # 
+127.0.0.1 live.octanerender.com/live/v2 # # 
+127.0.0.1 live/v1/live.octanerender.com # # 
+127.0.0.1 live/v2/live.octanerender.com # # 
+127.0.0.1 live1.octanerender.com # # 
+127.0.0.1 live2.octanerender.com # # 
+127.0.0.1 live3.octanerender.com # # 
+127.0.0.1 live4.octanerender.com # # 
+127.0.0.1 live5.octanerender.com # # 
+127.0.0.1 live6.octanerender.com # # 
+127.0.0.1 account.otoy.com # # 
+127.0.0.1 local.otoylocal.com # # 
+127.0.0.1 orc.otoy.com # # 
+127.0.0.1 54.243.210.230 # # 
+127.0.0.1 169.54.33.187 # # 
+127.0.0.1 58.20.196.160 # # 
+127.0.0.1 169.54.129.22 # # 
+127.0.0.1 account.otoy.com/sign_up # # 
+127.0.0.1 bridge.octanerender.com # #
