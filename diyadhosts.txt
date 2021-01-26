@@ -172,6 +172,7 @@ baidu.com###content_right
 @@||baidupcs.com
 @@||pan.baidu.com
 @@||map.baidu.com
+@@||pcs.baidu.com
 220.167.100.72 scsxhg2019.gnway.org
 0.0.0.0 ocsp.apple.com
 @@||scsxhg2019.gnway.org
@@ -188,9 +189,6 @@ baidu.com###content_right
 @@||126.com
 @@||dldir1.qq.com
 @@||qidian.qq.com
-@@||baidup.com
-@@||baidupcs.com
-@@||pan.baidu.com
 @@||1688.com
 @@||suning.com
 @@||map.baidu.com
