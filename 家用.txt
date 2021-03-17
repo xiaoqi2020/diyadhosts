@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! title: 小麒-游戏，视频，音乐网站屏蔽规则
-! Version: 2020-8-13 22:01:38
+! Version: 2021年3月17日20:09:49
 #屏蔽游戏网站
 ||*.4399.*^
 ||*.7k7k.*^
@@ -28,6 +28,20 @@
 ||33456.com^
 ||netease.com^
 ||evepc.163.com^
+||18183.com^
+||2144.cn^
+||xyx.hao123.com^
+||xyx.7399.com^
+||game773.com^
+||xiaoyouxi.360.cn^
+||817.sy.cn^
+||7724.com^
+||doyo.com^
+||xyx.dn1234.com^
+||shuangren.973.com^
+||123.sogou.com^
+||doudou.in^
+||www.72ce.com^
 #屏蔽金山毒霸网站
 ||wps.com^
 ||wps.cn^
