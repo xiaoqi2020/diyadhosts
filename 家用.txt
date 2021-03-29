@@ -88,7 +88,6 @@
 ||7654.com^
 ||360kuai.com^
 ||ssp.360.cn^
-
 #广告联盟
 ||umeng.com^
 ||wangmeng.baidu.com^
@@ -175,71 +174,6 @@
 ||uid.ksosoft.com^
 ||ups.ksmobile.net^
 ||ws.ksmobile.net^
-#屏蔽网站元素 测试是否有效
-@@||jd.com^important'
-@@||flyme.cn^$important'
-@@||meizu.com^$important'
-@@||wl.jd.com^$important'
-@@||flydigi.com^'
-||doubleclick.net^'
-||flashtalking.com$domain=youtube.com'
-||googleadservices.com'
-||googlesyndication.com^'
-||s0.2mdn.net/ads'
-||www.google.*/pagead$domain=youtube.com'
-||www.youtube.com/[[computeEmptyGif_()]]$image'
-||www.youtube.com/[[computeThumbnailUrl_(data.thumbnail)]]'
-||www.youtube.com/api/stats'
-||www.youtube.com/pagead'
-||www.youtube.com/ptracking'
-||pv.sohu.com^$important'
-||mgtv.com^important'
-youku.com#%#//scriptlet("adjust-setTimeout", "r--", "", "0.02")
-||cnzz.com^$third-party
-||mmstat.com^$third-party
-||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-@@||log.mmstat.com/eg.js$domain=youku.com
-v.qq.com#%#//scriptlet('json-prune', 'ad')
-||btrace.video.qq.com/kvcollect^
-@@||pingjs.qq.com^$~third-party
-||qq.com/collect?
-||btrace.qq.com^
-||qq.com/pingd?
-qq.com,yxad.com##.l_qq_com
-dapenti.com,douyu.com,iqiyi.com,jinti.com,rufengso.net,v.qq.com##a[href*=".jd.com"]
-##.ad_pic
-##.ad_title
-dapenti.com,douyu.com,iqiyi.com,jinti.com,rufengso.net,v.qq.com##a[href*=".jd.com"]
-qq.com##.mod_ad_main
-qq.com,yxad.com##.l_qq_com
-qq.com##.mod_ad_side
-v.qq.com#%#//scriptlet('json-prune', 'ad')
-||btrace.video.qq.com/kvcollect^
-@@||qq.com/proxyhttp
-@@||pingjs.qq.com^$~third-party
-~xpressengine.com##.btn_share
-baidu.com###content_right
-hao.360.com##div#doc-main.container
-hao.360.com###doc-top-ft
-baidu.com###content_right
-360kuai.com###flow-container
-360kuai.com###content-container > div.content-body.clearfix > div.content.float--left > div:last-child
-#防跟踪保护过滤器
-||google-analytics.com^ 
-||api.github.com/_private/browser/stats$important
-||collector.githubapp.com^
-#屏蔽弹窗广告-测试
-||*.hoteastday.com^
-#屏蔽成人网站
-||xxxmoviesfuck.pro^
-||wildxxxsex.com^
-||xxxsex.pro^^
-||6xxxvideos.com^
-||sexhubmovs.com^
-||xxxmoviesfuck.pro^
-||sexmovie.pro^
-||18pornpic.com^
-||xxxcomicporn.com^
 OC渲染器
 192.168.1.2 windows10.microdone.cn
 127.0.0.1 live.refractivesoftware.com # # 
