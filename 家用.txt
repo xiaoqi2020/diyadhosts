@@ -204,9 +204,8 @@
 127.0.0.1 account.otoy.com/sign_up # # 
 127.0.0.1 bridge.octanerender.com # #
 #视频网站
-||bilibili.com^
-||aisee.tv/*^
-||hdslb.com/*^
+||*.aisee.tv/*^
+||*.hdslb.com/*^
 ||*.aisee.tv/*^
 ||*.bilivideo.com/*^
 
