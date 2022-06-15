@@ -209,4 +209,4 @@
 ||*.bilivideo.com^$important
 ||*.aisee.tv^$important
 ||*.biliapi.net^$important
-
+||*.qun7.com^$important
