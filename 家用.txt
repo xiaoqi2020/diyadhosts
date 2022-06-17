@@ -206,7 +206,7 @@
 #视频网站
 #云视听小视频
 ||ad.*.cibntv.*^$important
-||*.bilivideo.com^$important
+@@||*.bilivideo.com^$important
 ||*.aisee.tv^$important
 ||*.biliapi.net^$important
 ||*.qun7.com^$important
