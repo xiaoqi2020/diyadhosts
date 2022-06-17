@@ -210,3 +210,6 @@
 ||*.aisee.tv^$important
 ||*.biliapi.net^$important
 ||*.qun7.com^$important
+#电视机顶盒相关
+||*.hezijia.com^$important
+||*.gitv.tv^$important
