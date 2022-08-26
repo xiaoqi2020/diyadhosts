@@ -205,11 +205,19 @@
 127.0.0.1 bridge.octanerender.com # #
 #视频网站
 #云视听小视频
-||ad.*.cibntv.*^$important
-@@||*.bilivideo.com^$important
-||*.aisee.tv^$important
-||*.biliapi.net^$important
-||*.qun7.com^$important
+||ad.*.cibntv.*/*
+||*.bilivideo.com/*
+||http://upos-sz-mirrorhwo1.bilivideo.com/*
+||*.aisee.tv/*
+||*.aisee.tv:*/*
+||*.biliapi.net/*
+||*.qun7.com/*
+||*.bugly.qq.com/*
+||*.hdslb.com/*
+||http://203.107.1.*/*
+||http://playauth.cooperation.aisee.tv/*
 #电视机顶盒相关
-||*.hezijia.com^$important
-||*.gitv.tv^$important
+||*.hezijia.com
+#百度广告
+||ada.baidu.com
+||fclick.baidu.com
